@@ -1,0 +1,8 @@
+#build dev 
+$mvn clean install 
+
+#run local
+$mvn clean install tomcat7:run
+
+===============================
+please go to http://localhost:8080/  

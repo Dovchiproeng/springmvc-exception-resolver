@@ -1,0 +1,23 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+.settings
+target
+.classpath
+.project
+.springBeans
+.metadata
+.recommenders
+
+bin
+build
+.gradle
+
+# Intellij
+.idea/
+*.iml
+*.iws
